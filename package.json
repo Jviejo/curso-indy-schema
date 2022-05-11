@@ -1,0 +1,9 @@
+{
+  "name": "curso-indy-schema",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "indy-sdk": "^1.16.0-dev-1655"
+  }
+}
