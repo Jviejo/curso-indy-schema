@@ -1,0 +1,7 @@
+{
+
+    "issuerDid":"MKgrNNLpEeZENuT5nqSFcY"    , 
+    "name":"schema1",
+    "version":"1.0",
+    "attrNames":["name", "age"]
+}
